@@ -1,5 +1,7 @@
 # Retos-Programacion
 
+![A vaporwave Desk](assets/img/vaporwave-Desk.jpg )
+
 Este repositorio cuenta con una variedad de retos para practicar logica de programacion. Este repositorio esta basado en los retos de [Brais Moure](https://github.com/mouredev).
 Los lenguajes utilizados son:
 
